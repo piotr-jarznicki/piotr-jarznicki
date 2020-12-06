@@ -6,7 +6,7 @@ Currently looking for a first job as a Junior Front-End Developer. Eager to lear
 
 - 🌱 I’m currently learning React & TypeScript
 
-- :computer: What I'm focusing on
+- :computer: What I'm focusing on: 
   Currently improving my React/JS skills and learning TypeScript & creating new projects
 
 - 📫 Feel free to message me: piotrjarznicki@gmail.com
